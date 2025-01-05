@@ -17,6 +17,7 @@
 | Pluginlib | WIP | [PluginlibLecture](https://github.com/NITKK-ROS-Team/PluginlibLecture) | 
 | Generate parameter library  | ✅ | [generate_parameter_library_example](https://github.com/NITKK-ROS-Team/generate_parameter_library_example) |
 | micro-ROS | WIP | [micro-ROS-tutorials](https://github.com/NITKK-ROS-Team/micro-ROS-tutorials) |
+| Rviz2 panel plugin | ✅ | [qt_rviz2_tutorial](https://github.com/NITKK-ROS-Team/qt_rviz2_tutorial) |
 
 ### micro-ros
 
